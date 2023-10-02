@@ -1,0 +1,7 @@
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\bin\Debug\Conversione.exe.config
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\bin\Debug\Conversione.exe
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\bin\Debug\Conversione.pdb
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\obj\Debug\Conversione.csproj.AssemblyReference.cache
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\obj\Debug\Conversione.csproj.CoreCompileInputs.cache
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\obj\Debug\Conversione.exe
+C:\Users\DEEPGAMING\Desktop\Scuola\Sistemi\Conversione\Conversione\obj\Debug\Conversione.pdb
